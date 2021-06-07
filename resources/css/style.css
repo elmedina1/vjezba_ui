@@ -36,8 +36,9 @@ h2 {
     background-color: aqua;
  
 }
-.oprema {
- font-size: 16px !important;
+h3.test {
+    font-size: 16px;
+    color: gray;
 }
 
 a {
