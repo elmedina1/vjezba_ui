@@ -34,8 +34,11 @@ h2 {
 .paint {
 
     background-color: aqua;
+ 
 }
-
+.oprema {
+ font-size: 16px
+}
 
 a {
 
